@@ -1,0 +1,27 @@
+_repo: A-Legend-of-Reading-Abbey_41804
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacFarlane, Charles
+    alias: MacFarlane, C. (Charles)
+    birthdate: 1799
+    deathdate: 1858
+    gutenberg_agent_id: '41376'
+    url: http://www.gutenberg.org/2009/agents/41376
+description: ''
+gutenberg_issued: '2013-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Stephen, 1135-1154 -- Fiction'
+title: A Legend of Reading Abbey
+url: http://www.gutenberg.org/ebooks/41804
